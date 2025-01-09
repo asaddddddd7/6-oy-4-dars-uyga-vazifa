@@ -1,6 +1,7 @@
 import React, { useState } from "react";
 import List from "./components/Mashq1";
 import Text from "./components/mashq2";
+import Show  from "./components/mashq4";
 import Color from "./components/mashq4";
 import Pasword from "./components/Mashq3";
 import Users from "./components/mashq5";
@@ -14,6 +15,7 @@ function App() {
         {/* <List/>  */}
         {/* <Text /> */}
         {/* <Pasword/> */}
+        {/* <Show/> */}
         {/* <Color /> */}
         {/* <Users/> */}
         <Input/>
